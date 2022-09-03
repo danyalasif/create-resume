@@ -1,4 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+View the app on https://create-resume.vercel.app/
+
+
+## Idea
+
+I got the idea of building my own resume builder after going through many online resume websites which require a subscription. So I went out to find how difficult it can be.
+
+Create Resume is the simplest tool to create your resume.
+
+
+## Plan
+
+My plan is to bring it up to the mark where I can create my own resume with it. 
+
+Here's a checklist of things I want to do:
+
+- [ ] Add all my information and display it in a preview
+    - [ ] Title & Job input
+    - [ ] Profile input
+    - [ ] Skills input
+    - [ ] Professional Experience input
+    - [ ] Certificates input
+- [ ] Able to download as PDF or image format
+- [ ] Able to change styling
+    - [ ] Fonts
+    - [ ] Colors
+
+I will keep adding to this list as I come up with ideas.
+
 
 ## Getting Started
 
